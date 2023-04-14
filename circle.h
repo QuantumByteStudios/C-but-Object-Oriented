@@ -1,7 +1,6 @@
-#include <stdio.h>
+#include "utils.h"
 
 // Point
-
 typedef struct
 {
   int x;
